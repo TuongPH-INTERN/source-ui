@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "slug": "b",
+        "name":"Adobe Illustrator Scretch Course",
+        "img":"AI.png",
+        "author":"Kitani Studio",
+        "description":"More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+        "rate":"4.5",
+        "price":"24.92",
+        "old_price":"32.90"
+
+    },
+    {
+        "id": 2,
+        "slug": "a",
+        "name":"Bootcamp Vue.js Web Framework",
+        "img":"IOS.png",
+        "author":"Kitani Studio",
+        "description":"Learn how to make web application with Vue.js Framework.",
+        "rate":"4.5",
+        "price":"24.92",
+        "old_price":"32.90"
+
+    },
+    {
+        "id": 3,
+        "slug": "c",
+        "name":"Design Fundamentals",
+        "img":"design2.png",
+        "author":"Kitani Studio        ",
+        "description":"More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+        "rate":"4.5",
+        "price":"24.92",
+        "old_price":"32.90"
+
+    },
+    {
+        "id": 4,
+        "slug": "ionic-build-ios-android-web",
+        "name":"Ionic - Build iOS, Android & Web...",
+        "img":"IOS2.png",
+        "author":"Kitani Studio        ",
+        "description":"More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+        "rate":"4.5",
+        "price":"24.92",
+        "old_price":"32.90",
+        "about":"Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries."
+    },
+    {
+        "id": 5,
+        "slug": "d",
+        "name":"Adobe Illustrator Scretch Course",
+        "img":"AI2.png",
+        "author":"Kitani Studio        ",
+        "description":"More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+        "rate":"4.5",
+        "price":"24.92",
+        "old_price":"32.90"
+
+    },
+    {
+        "id": 6,
+        "slug": "e",
+        "name":"Bootcamp Vue.js Web Framework",
+        "img":"vuejs2.png",
+        "author":"Kitani Studio        ",
+        "description":"Learn how to make web application with Vue.js Framework.",
+        "rate":"4.5",
+        "price":"24.92",
+        "old_price":"32.90"
+
+    },
+    {
+        "id": 7,
+        "slug": "g",
+        "name":"Design Fundamentals",
+        "img":"design3.png",
+        "author":"Kitani Studio        ",
+        "description":"More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+        "rate":"4.5",
+        "price":"24.92",
+        "old_price":"32.90"
+
+    },
+    {
+        "id": 8,
+        "slug": "h",
+        "name":"Ionic - Build iOS, Android & Web...",
+        "img":"ios3.png",
+        "author":"Kitani Studio        ",
+        "description":"More than 8yr Experience as Illustrator. Learn how to becoming professional Illustrator Now...",
+        "rate":"4.5",
+        "price":"24.92",
+        "old_price":"32.90"
+
+    }
+]
